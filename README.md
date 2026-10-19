@@ -6,7 +6,7 @@ A roguelite vertical shoot-'em-up in the spirit of Tyrian, shipped as **one stan
 
 ## Play
 
-Download [`riftrunner.html`](riftrunner.html) and open it in a browser. That's it. Progress (scrap, unlocks, settings) is saved in `localStorage`.
+**[Play in your browser](https://underscorelog.github.io/riftrunner/)**, or download [`riftrunner.html`](riftrunner.html) and open it locally. Progress (scrap, unlocks, settings) is saved in `localStorage`.
 
 ## Features
 
